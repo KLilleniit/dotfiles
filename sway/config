@@ -68,7 +68,8 @@ output * bg /usr/share/backgrounds/f34/default/f34.png fill
     # Start Discord-Canary
     bindsym $mod+Shift+d exec discord-canary
 
-
+    # Start pcmanfm
+    bindsym $mod+Shift+f exec pcmanfm
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
